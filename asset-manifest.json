@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/apiDogs/static/css/main.2fb434c0.chunk.css",
+    "main.js": "/apiDogs/static/js/main.1e68902f.chunk.js",
+    "main.js.map": "/apiDogs/static/js/main.1e68902f.chunk.js.map",
+    "runtime-main.js": "/apiDogs/static/js/runtime-main.d7ceb60c.js",
+    "runtime-main.js.map": "/apiDogs/static/js/runtime-main.d7ceb60c.js.map",
+    "static/js/2.daef4fe7.chunk.js": "/apiDogs/static/js/2.daef4fe7.chunk.js",
+    "static/js/2.daef4fe7.chunk.js.map": "/apiDogs/static/js/2.daef4fe7.chunk.js.map",
+    "static/js/3.50df55bc.chunk.js": "/apiDogs/static/js/3.50df55bc.chunk.js",
+    "static/js/3.50df55bc.chunk.js.map": "/apiDogs/static/js/3.50df55bc.chunk.js.map",
+    "index.html": "/apiDogs/index.html",
+    "static/css/main.2fb434c0.chunk.css.map": "/apiDogs/static/css/main.2fb434c0.chunk.css.map",
+    "static/js/2.daef4fe7.chunk.js.LICENSE.txt": "/apiDogs/static/js/2.daef4fe7.chunk.js.LICENSE.txt",
+    "static/media/Dogs_Home.a0005edb.jpg": "/apiDogs/static/media/Dogs_Home.a0005edb.jpg",
+    "static/media/home.css": "/apiDogs/static/media/main_background.3d412a45.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ceb60c.js",
+    "static/js/2.daef4fe7.chunk.js",
+    "static/css/main.2fb434c0.chunk.css",
+    "static/js/main.1e68902f.chunk.js"
+  ]
+}
