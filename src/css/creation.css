@@ -1,0 +1,18 @@
+.altura_peso_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.altura_peso_div div{
+    display: flex;
+    justify-content: center;
+}
+
+.altura_peso_div label{
+    width: 100px;
+}
+
+.altura_peso_div input{
+    margin-right: 10px;
+}

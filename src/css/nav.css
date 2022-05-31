@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+}
+
+.nav_main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40px;
+    background-color: burlywood;
+    font-size: 24px;
+}
+
+.nav_main span{
+    color: black;
+}

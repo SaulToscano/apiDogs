@@ -1,0 +1,23 @@
+.Card_Api_Main_Div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Card_Style{
+    display: flex;
+    flex-direction: column;
+    border: solid;
+    margin: 50px;
+}
+
+.Card_Style img{
+    width: 200px;
+    height: 200px;
+}
+
+ul{
+    text-align: start;
+    margin-left: 20%;
+}

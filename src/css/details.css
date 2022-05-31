@@ -1,0 +1,9 @@
+.Detail_Main_Div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Detail_Main_Div img{
+    margin-top: 20px;
+}
