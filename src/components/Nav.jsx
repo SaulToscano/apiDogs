@@ -5,13 +5,13 @@ import '../css/nav.css'
 function Nav() {
     return (
       <nav className="nav_main">
-        <Link to="/apiDogs">
+        <Link to="/">
           <span>Home</span>
         </Link>
-        <Link to="/apiDogs/Dog_List">
+        <Link to="/Dog_List">
           <span>Dogs List</span>
         </Link>
-        <Link to="/apiDogs/Create_Dog">
+        <Link to="/Create_Dog">
           <span>Dog Creation</span>
         </Link>
       </nav>
