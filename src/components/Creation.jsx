@@ -103,7 +103,7 @@ function Creation(){
                 e.preventDefault();
                 if(validation()){
                     prepare_Dog();
-                    PostData(`http://localhost:3001/dog`, dog)
+                    PostData(`https://api-dogs-saultoscano.herokuapp.com/dog`, dog)
                 }else{
                     alert('Hubo algun error en la informacion')
                 }

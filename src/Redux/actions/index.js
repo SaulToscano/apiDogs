@@ -20,7 +20,7 @@ export function getDogs(){
 
 export function getBDDogs(){
     return function(dispatch){
-        return fetch(`http://localhost:3001/dogs`)
+        return fetch(`https://api-dogs-saultoscano.herokuapp.com/dogs`)
         .then(response => response.json())
         .then(json => {
             dispatch({ type: "GET_BDDOGS", payload: json })
